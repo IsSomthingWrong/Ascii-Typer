@@ -9,4 +9,6 @@ If you are having problems running the program, try reinstalling.
 If you are having proplems beyond that go to https://github.com/IsSomthingWrong/Ascii-Typer/issues
 
 Do not republish for private use.
-(PDM)
+
+Creative commons:
+  (BY-NC-SA)
